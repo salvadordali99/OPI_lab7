@@ -1,6 +1,7 @@
 #README
 Dmitriy
-BSTU 
+BSTU
 FIT
 Software engeneering
 1 course, 1-1
+Some changes
